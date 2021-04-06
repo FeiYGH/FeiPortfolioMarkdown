@@ -8,7 +8,7 @@
 * **LinkedIn**
 
 
-## [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects).         [Experience](#Experience).         [Education](#Education)                        
+## [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education)                        
 
 
 ## Summary
