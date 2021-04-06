@@ -17,13 +17,13 @@ I enjoy challenging myself to think methodically and creatively and have found t
 In my free time, I'm a huge foodie, and I love traveling to new places and trying new things. In 2019, I traveled through 13 states in a 10 day time period. My personal favorite was hiking up Angel's Landing in Zion National Park in Utah. 
 
 
-###Skills
+### Skills
 
 
-###Projects
+### Projects
 
 
-###Experience
+### Experience
 
 
-###Education
+### Education
