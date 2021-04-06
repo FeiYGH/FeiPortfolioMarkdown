@@ -20,13 +20,17 @@
 
 
 ## Skills
-1* Frameworks
-* Spring Boot Java
-* Ruby on Rails
-* AngularJS
-* ReactJS
-* ReduxJS
-* 
+1. Backend and Frontend Frameworks
+** Spring Boot Java
+** Ruby on Rails
+** AngularJS
+** ReactJS
+** ReduxJS
+* Languages
+** Java
+** Ruby
+** C++
+** 
 
 ## Projects
 
