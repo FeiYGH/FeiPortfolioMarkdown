@@ -7,7 +7,7 @@
 * **Github**
 * **LinkedIn**
 
-##[Skills](#Skills) &nbsp;&nbsp;&nbsp; [Projects](#Projects) &nbsp;&nbsp;&nbsp; [Experience](#Experience) &nbsp;&nbsp;&nbsp; [Education](#Education)                        
+## [Skills](#Skills) &nbsp;&nbsp;&nbsp; [Projects](#Projects) &nbsp;&nbsp;&nbsp; [Experience](#Experience) &nbsp;&nbsp;&nbsp; [Education](#Education)                        
 
 ## Summary
 * I'm a full stack software engineer that loves building and creating! I enjoy Ruby, ReactJS, ReduxJS, Rails, SpringBoot, and AngularJS. I am also good (skillful) at JavaScript, Java, and C++. My most recent project is Shamazin, which is a clone of the Amazon Item Show Page, a full stack group project where we used SpringBoot on the backend and React on the frontend with Postgres as the database. Our team developed it using the agile methodology. Another project I greatly enjoyed was, "Nonprofits Across Different States," a D3 JavaScript interactive graph. StudyPal SF demonstrates another stack that I have worked with; it uses MongoDB, Express, React/Redux, and Node.js to filter through preferences and "roll" a random cafe for those seeking a cafe to study. Please look at my projects section.
