@@ -3,9 +3,9 @@
 ## Contact Information
 * **Email** - feidyang@gmail.com
 * **Phone** - (669)282-8139
-* **Portfolio** 
-* **Github**
-* **LinkedIn**
+* **Portfolio(https://feidyang.com/)**
+* **[Github](https://github.com/FeiYGH)**
+* **[LinkedIn](https://www.linkedin.com/in/d-c-fei-yang-4958261a4/)**
 
 
 ## [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education)                        
@@ -52,16 +52,32 @@
 * Agile workflow
 * Kanban Board
 * Github
-* Heroku
-* AWS S3
 * Postman API
+* AWS Cloud Practitioner Essentials Certificates
 * JIRA
 * REST
+* Heroku
+* Data Analysis with Python Projects Certification 
+* AWS S3
 
 ## Projects
-### Shamazin (Spring Boot, JPA/Hibernate, Postgres, ReactJS, HTML/CSS, React Styled) &nbsp; &nbsp; [live site coming] | [github frontend](https://github.com/TheReallyGreatTeamFSEMarch2021/ReactShamazin) | [github backend](https://github.com/TheReallyGreatTeamFSEMarch2021/Shamazin2)
+### Shamazin (Spring Boot, JPA/Hibernate, Postgres, ReactJS, HTML/CSS, React Styled) &nbsp; &nbsp; live site coming | [github frontend](https://github.com/TheReallyGreatTeamFSEMarch2021/ReactShamazin) | [github backend](https://github.com/TheReallyGreatTeamFSEMarch2021/Shamazin2)
+_Clone of Amazon Item Show Page._
+* Worked remotely in a team of seven people to create this website, following the agile methodology and using Github to track, resolve conflicts, and merge.
+* Set up the backend for the Product Photos Component, using Hibernate/JPA to write the models, and writing the REST APIs (model, control, service, repository classes, and service layers tests).
+* Built the Product Photos React frontend component, implementing and hooking up a React-Image-Magnifiers library to create photo magnification effect. 
+* Built out backend login and register functionality using Spring Security and JWT Token for future login and register functionality.
+* Did styling of Product Photos components and certain other components of the website, including NavBar and Login page.   
 
-### FavRecipEz (Spring Boot, Angular, HTML/CSS, Postgres) &nbsp; &nbsp; [live site coming] | [github frontend](https://github.com/FeiYGH/favRecipEzAngular2021) | [github backend](https://github.com/FeiYGH/favRecipes)
+### FavRecipEz (Spring Boot, Angular, HTML/CSS, Postgres) &nbsp; &nbsp; live site coming | [github frontend](https://github.com/FeiYGH/favRecipEzAngular2021) | [github backend](https://github.com/FeiYGH/favRecipes)
+_App designed for users to browse and store recipes for themselves and others. Once signed in, users have full CRUD features for their recipes._
+* Designed the framework, the models, the overall layout and functionality to implement structure for project.
+* Used Java Spring Boot to build out REST APIs for grabbing, creating, editing, deleting data. Used JUnit to write tests for the service layer. 
+* Wrote out Spring Security to implement signup and login functionality, rendering errors.
+* Used AngularJS to create the components, including recipe index page, search bar, login, register, recipe box, recipe show page, and recipe edit page.
+* Built out CRUD system that allows users to easily create recipes, whether it be copying or typing. Users can edit and delete ingredients and instructions as single units or as a whole. 
+* Implemented AWS (Amazon Web Services) S3 as a repository for users to store pictures. User and recipe upload functionality are in progress.
+* Styled using HTML/CSS, with responsive web design, so proportionality of layout would remain. 
 
 ### Government Diversity Over 50 Years (Spring Boot, JQuery, Postgres, Heroku, JSON.simple, HTML5/CSS3) &nbsp; &nbsp; [live](https://govt-diversity-over-50-years.herokuapp.com/) | [github](https://github.com/FeiYGH/GovDiversityOver50Years)
 _Interactive website that charts the trends in U.S. government diversity over 50 years_
@@ -87,14 +103,15 @@ match layout, colors, and design of the Goodreads website. Used grid system and 
 * Built out React/Redux components for the app, including splash page, navbar, book show, and book index page, etc.
 * Built rating/review system that allows users to rate and review books and edit their reviews, make comments on reviews.
 * Other main features include tracking and displaying book rating statistics, user bookshelves, and book search functionality.
-* Implemented AWS S3 (Amazon Web Services) to store and pull pictures for the site and to allow user to upload their profile
+* Implemented AWS S3 to store and pull pictures for the site and to allow user to upload their profile
 pic.
 
-### Charities Graph Across 53 States and Territories (JavaScript, D3.js, API calls for data) &nbsp; &nbsp; [live] | [github]
+### Charities Graph Across 53 States and Territories (JavaScript, D3.js, API calls for data) &nbsp; &nbsp; [live(https://feiygh.github.io/JavaScriptProj/) | [github](https://github.com/FeiYGH/JavaScriptProj)
 _An interactive graph that depicts 11 categories of nonprofits across US states and territories._
 * Designed each charity to be represented by a circle, colored ordinally based upon category, where size is prop. to its income.
 * Built “play”, “pause”, and “reset” buttons for user friendliness; user can start, pause, or restart the presentation.
 * Set up a state slider allowing user to skip to any state they want and a filter allowing user to selectively show categories.
+* Data about all charities are gathered from API calls to Charity Navigator.
 
 ## Experience
 ### Full Stack Engineer
