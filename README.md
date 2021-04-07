@@ -20,7 +20,6 @@
 
 
 ## Skills
-#### [Summary](#Summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education) 
 ### Backend and Frontend Frameworks
 * Spring Boot Java
 * Ruby on Rails
@@ -60,9 +59,9 @@
 * Heroku
 * Data Analysis with Python Projects Certification 
 * AWS S3
+#### [Summary](#Summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education) 
 
 ## Projects 
-#### [Summary](#Summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education) 
 ### Shamazin (Spring Boot, JPA/Hibernate, Postgres, ReactJS, HTML/CSS, React Styled) &nbsp; &nbsp; live site coming | [github frontend](https://github.com/TheReallyGreatTeamFSEMarch2021/ReactShamazin) | [github backend](https://github.com/TheReallyGreatTeamFSEMarch2021/Shamazin2)
 _Clone of Amazon Item Show Page._
 * Worked remotely in a team of seven people to create this website, following the agile methodology and using Github to track, resolve conflicts, and merge.
@@ -114,9 +113,9 @@ _An interactive graph that depicts 11 categories of nonprofits across US states 
 * Built “play”, “pause”, and “reset” buttons for user friendliness; user can start, pause, or restart the presentation.
 * Set up a state slider allowing user to skip to any state they want and a filter allowing user to selectively show categories.
 * Data about all charities are gathered from API calls to Charity Navigator.
+#### [Summary](#Summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education) 
 
 ## Experience 
-#### [Summary](#Summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education) 
 ### Full Stack Engineer
 _TalentPath, Washington, D.C_
 * Built an app in a group called Shamazin, a clone of the Amazon Item Show Page and followed an agile workflow with a week long sprint.
@@ -138,11 +137,12 @@ _Shasta QA, Redding, CA_
 * five tech companies; four of them were international in scope. Helped train two other team members.
 * Worked with product management teams, software developers to fix software defects and bugs, to review new features and
 specifications. Wrote test cases. Maintained and updated regression test plan. Followed Agile method weekly sprint cycles.
+#### [Summary](#Summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education) 
 
 ## Education  
-#### [Summary](#Summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education) 
 * **BA Education** - _University of Virginia,_ CharlottesVille, VA | 2003-2007
 * **Full Stack Development** - _App Academy,_ San Francisco, CA | Dec 2019 - April 2020
 * **Systems Programming** - _DeAnza College,_ Cupertino, CA | Jan 2018 - Dec 2019
     - Completed 85.5/90 credits toward an Associate’s in Systems Programming. GPA: 3.71
 * **Certificate in C++** _Deanza College,_ Cupertino, CA | Jan 2018 - Jan 2019
+#### [Summary](#Summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education) 
