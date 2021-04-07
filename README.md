@@ -59,7 +59,8 @@
 * Heroku
 * Data Analysis with Python Projects Certification 
 * AWS S3
-#### [Summary](#Summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education) 
+[Summary](#Summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education) 
+<br/>
 
 ## Projects 
 ### Shamazin (Spring Boot, JPA/Hibernate, Postgres, ReactJS, HTML/CSS, React Styled) &nbsp; &nbsp; live site coming | [github frontend](https://github.com/TheReallyGreatTeamFSEMarch2021/ReactShamazin) | [github backend](https://github.com/TheReallyGreatTeamFSEMarch2021/Shamazin2)
