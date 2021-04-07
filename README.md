@@ -138,4 +138,4 @@ specifications. Wrote test cases. Maintained and updated regression test plan. F
 * **Full Stack Development** - _App Academy,_ San Francisco, CA | Dec 2019 - April 2020
 * **Systems Programming** - _DeAnza College,_ Cupertino, CA | Jan 2018 - Dec 2019
     - Completed 85.5/90 credits toward an Associate’s in Systems Programming. GPA: 3
-* **Certificat in C++** _Deanza College,_ Cupertino, CA | Jan 2018 - Jan 2019
+* **Certificate in C++** _Deanza College,_ Cupertino, CA | Jan 2018 - Jan 2019
