@@ -59,11 +59,11 @@
 * REST
 
 ## Projects
-### Shamazin (Spring Boot, JPA/Hibernate, Postgres, ReactJS, HTML/CSS, React Styled) &nbsp; &nbsp; [live site coming] | [github frontend](https://github.com/TheReallyGreatTeamFSEMarch2021/ReactShamazin)
+### Shamazin (Spring Boot, JPA/Hibernate, Postgres, ReactJS, HTML/CSS, React Styled) &nbsp; &nbsp; [live site coming] | [github frontend](https://github.com/TheReallyGreatTeamFSEMarch2021/ReactShamazin) | [github backend](https://github.com/TheReallyGreatTeamFSEMarch2021/Shamazin2)
 
-### FavRecipEz (Spring Boot, Angular, HTML/CSS, Postgres) &nbsp; &nbsp; [live site coming] | [github]()
+### FavRecipEz (Spring Boot, Angular, HTML/CSS, Postgres) &nbsp; &nbsp; [live site coming] | [github frontend](https://github.com/FeiYGH/favRecipEzAngular2021) | [github backend](https://github.com/FeiYGH/favRecipes)
 
-### Government Diversity Over 50 Years (Spring Boot, JQuery, Postgres, Heroku, JSON.simple, HTML5/CSS3) &nbsp; &nbsp; [live] | [github]
+### Government Diversity Over 50 Years (Spring Boot, JQuery, Postgres, Heroku, JSON.simple, HTML5/CSS3) &nbsp; &nbsp; [live](https://govt-diversity-over-50-years.herokuapp.com/) | [github](https://github.com/FeiYGH/GovDiversityOver50Years)
 _Interactive website that charts the trends in U.S. government diversity over 50 years_
 * Worked remotely in a team of six people to create this website, using Github to track changes, resolve conflicts, and merge.
 * Wrote script to extract, process, and calculate data using JSON.simple and Joda-Time, helped set up REST APIs for raw tables
@@ -71,14 +71,14 @@ website and set up backend for user facing website.
 * Deployed both websites to heroku and did much of the design and styling for the user facing website.
 
 
-### Studypal SF (MongoDB, Express.js, React.js, Redux.js, Node.js, HTML5/CSS3) &nbsp; &nbsp; [live] | [github]
+### Studypal SF (MongoDB, Express.js, React.js, Redux.js, Node.js, HTML5/CSS3) &nbsp; &nbsp; [live](http://studypals-sf.herokuapp.com/#/) | [github](https://github.com/aA-MERN-Project/studypal)
 _App designed to randomly select a study cafe for users based upon their preferences, allowing users to save and edit favorites._
 * Worked remotely in a team of four people to create this app, using Github to track changes, resolve conflicts, and merge.
 * Set up backend using MongoDB, Express.js, Node.js to implement secure signup and login functionality, rendering errors.
 * Set up profile features, edit functionality for user info, and dynamic profile updates to reflect real time changes.
 * Refactored code to make our website responsive through media queries; cafe and crew pages are mobile/tablet friendly.
 
-### greatReads (Rails, Ruby, jQuery, React.js, Redux.js, AWS, HTML5/CSS3) &nbsp; &nbsp; [live] | [github]
+### greatReads (Rails, Ruby, jQuery, React.js, Redux.js, AWS, HTML5/CSS3) &nbsp; &nbsp; [live](https://greatreads2020.herokuapp.com/#/) | [github](https://github.com/FeiYGH/GreatReads---aA_Fullstack)
 _A clone of Goodreads. Users can read reviews (and any follow up review comments) on different books. Once signed in, users have
 access to full CRUD features of reviews, ratings, and comments._
 * Wrote backend to implement signup and login functionality, rendering errors, structuring React and Redux components to
