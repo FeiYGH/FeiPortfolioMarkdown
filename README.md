@@ -59,7 +59,7 @@
 * Heroku
 * Data Analysis with Python Projects Certification 
 * AWS S3
-[Summary](#Summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education) 
+<br/>[Summary](#Summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education) 
 <br/>
 
 ## Projects 
