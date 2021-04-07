@@ -1,4 +1,4 @@
-# Fei Yang's Portfolio
+# Fei Yang's Resume
 
 ## Contact Information
 * **Email** - feidyang@gmail.com
