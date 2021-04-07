@@ -106,7 +106,7 @@ match layout, colors, and design of the Goodreads website. Used grid system and 
 * Implemented AWS S3 to store and pull pictures for the site and to allow user to upload their profile
 pic.
 
-### Charities Graph Across 53 States and Territories (JavaScript, D3.js, API calls for data) &nbsp; &nbsp; [live(https://feiygh.github.io/JavaScriptProj/) | [github](https://github.com/FeiYGH/JavaScriptProj)
+### Charities Graph Across 53 States and Territories (JavaScript, D3.js, API calls for data) &nbsp; &nbsp; [live](https://feiygh.github.io/JavaScriptProj/) | [github](https://github.com/FeiYGH/JavaScriptProj)
 _An interactive graph that depicts 11 categories of nonprofits across US states and territories._
 * Designed each charity to be represented by a circle, colored ordinally based upon category, where size is prop. to its income.
 * Built “play”, “pause”, and “reset” buttons for user friendliness; user can start, pause, or restart the presentation.
@@ -134,8 +134,8 @@ _Shasta QA, Redding, CA_
 specifications. Wrote test cases. Maintained and updated regression test plan. Followed Agile method weekly sprint cycles.
 
 ## Education
-**BA Education** - _University of Virginia,_ CharlottesVille, VA | 2003-2007
-**Full Stack Development** - _App Academy,_ San Francisco, CA | Dec 2019 - April 2020
-**Systems Programming** - _DeAnza College,_ Cupertino, CA | Jan 2018 - Dec 2019
+* **BA Education** - _University of Virginia,_ CharlottesVille, VA | 2003-2007
+* **Full Stack Development** - _App Academy,_ San Francisco, CA | Dec 2019 - April 2020
+* **Systems Programming** - _DeAnza College,_ Cupertino, CA | Jan 2018 - Dec 2019
     - Completed 85.5/90 credits toward an Associate’s in Systems Programming. GPA: 3
-**Certificat in C++** _Deanza College,_ Cupertino, CA | Jan 2018 - Jan 2019
+* **Certificat in C++** _Deanza College,_ Cupertino, CA | Jan 2018 - Jan 2019
