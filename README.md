@@ -19,7 +19,7 @@
    In my free time, I'm a huge foodie, and I love traveling to new places and trying new things. In 2019, I traveled through 13 states in a 10 day time period. My personal favorite was hiking up Angel's Landing in Zion National Park in Utah. 
 
 
-## Skills [Summary](#Summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education) 
+## Skills  #### &nbsp; &nbsp; &nbsp; &nbsp; [Summary](#Summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education) 
 ### Backend and Frontend Frameworks
 * Spring Boot Java
 * Ruby on Rails
