@@ -12,7 +12,7 @@
 
 
 ## Summary
-   I'm a full stack software engineer that loves building and creating! I enjoy Ruby, ReactJS, ReduxJS, Rails, SpringBoot, and AngularJS. I am also good (skillful) at JavaScript, Java, and C++. My most recent project is Shamazin, which is a clone of the Amazon Item Show Page, a full stack group project where we used SpringBoot on the backend and React on the frontend with Postgres as the database. Our team developed it using the agile methodology. Another project I greatly enjoyed was, "Nonprofits Across Different States," a D3 JavaScript interactive graph. StudyPal SF demonstrates another stack that I have worked with; it uses MongoDB, Express, React/Redux, and Node.js to filter through preferences and "roll" a random cafe for those seeking a cafe to study. Please look at my projects section.
+   I'm a full stack software engineer that loves building and creating! I enjoy SpringBoot, AngularJS, ReactJS, ReduxJS, Ruby, and Rails. I am also good (skillful) at JavaScript, Java, and C++. My most recent project is Shamazin, which is a clone of the Amazon Item Show Page, a full stack group project where we used SpringBoot on the backend and ReactJS on the frontend with PostgreSQL as the database. Our team developed it using the agile methodology. Another project I am very happy about was, "Nonprofits Across Different States," a D3 JavaScript interactive graph. StudyPal SF demonstrates another stack that I have worked with; it uses MongoDB, ExpressJS, ReactJS/ReduxJS, and NodeJS to filter through preferences and "roll" a random cafe for those seeking a cafe to study. Please look at my projects section for further information.
 
    I enjoy challenging myself to think methodically and creatively and have found that creativity is not only a part of html/css but also a part of design and structure.
 
@@ -50,10 +50,10 @@
 
 ### Work Technologies
 * Agile workflow
-* Kanban Board
 * Github
+* Kanban Board
 * Postman API
-* AWS Cloud Practitioner Essentials Certificates
+* AWS Cloud Practitioner Essentials Certification
 * JIRA
 * REST
 * Heroku
@@ -64,7 +64,7 @@
 ### Shamazin (Spring Boot, JPA/Hibernate, Postgres, ReactJS, HTML/CSS, React Styled) &nbsp; &nbsp; live site coming | [github frontend](https://github.com/TheReallyGreatTeamFSEMarch2021/ReactShamazin) | [github backend](https://github.com/TheReallyGreatTeamFSEMarch2021/Shamazin2)
 _Clone of Amazon Item Show Page._
 * Worked remotely in a team of seven people to create this website, following the agile methodology and using Github to track, resolve conflicts, and merge.
-* Set up the backend for the Product Photos Component, using Hibernate/JPA to write the models, and writing the REST APIs (model, control, service, repository classes, and service layers tests).
+* Set up the backend for the Product Photos Component, writing the REST APIs (model, control, service, and repository classes, and service layers tests). Used Hibernate/JPA. 
 * Built the Product Photos React frontend component, implementing and hooking up a React-Image-Magnifiers library to create photo magnification effect. 
 * Built out backend login and register functionality using Spring Security and JWT Token for future login and register functionality.
 * Did styling of Product Photos components and certain other components of the website, including NavBar and Login page.   
@@ -77,7 +77,7 @@ _App designed for users to browse and store recipes for themselves and others. O
 * Used AngularJS to create the components, including recipe index page, search bar, login, register, recipe box, recipe show page, and recipe edit page.
 * Built out CRUD system that allows users to easily create recipes, whether it be copying or typing. Users can edit and delete ingredients and instructions as single units or as a whole. 
 * Implemented AWS (Amazon Web Services) S3 as a repository for users to store pictures. User and recipe upload functionality are in progress.
-* Styled using HTML/CSS, with responsive web design, so proportionality of layout would remain. 
+* Wireframed and styled website using HTML/CSS, with responsive web design, so proportionality of layout would remain. 
 
 ### Government Diversity Over 50 Years (Spring Boot, JQuery, Postgres, Heroku, JSON.simple, HTML5/CSS3) &nbsp; &nbsp; [live](https://govt-diversity-over-50-years.herokuapp.com/) | [github](https://github.com/FeiYGH/GovDiversityOver50Years)
 _Interactive website that charts the trends in U.S. government diversity over 50 years_
@@ -87,14 +87,14 @@ website and set up backend for user facing website.
 * Deployed both websites to heroku and did much of the design and styling for the user facing website.
 
 
-### Studypal SF (MongoDB, Express.js, React.js, Redux.js, Node.js, HTML5/CSS3) &nbsp; &nbsp; [live](http://studypals-sf.herokuapp.com/#/) | [github](https://github.com/aA-MERN-Project/studypal)
+### Studypal SF (MongoDB, ExpressJS, ReactJS, ReduxJS, NodeJS, HTML5/CSS3) &nbsp; &nbsp; [live](http://studypals-sf.herokuapp.com/#/) | [github](https://github.com/aA-MERN-Project/studypal)
 _App designed to randomly select a study cafe for users based upon their preferences, allowing users to save and edit favorites._
 * Worked remotely in a team of four people to create this app, using Github to track changes, resolve conflicts, and merge.
-* Set up backend using MongoDB, Express.js, Node.js to implement secure signup and login functionality, rendering errors.
+* Set up backend using MongoDB, ExpressJS, NodeJS to implement secure signup and login functionality, rendering errors.
 * Set up profile features, edit functionality for user info, and dynamic profile updates to reflect real time changes.
 * Refactored code to make our website responsive through media queries; cafe and crew pages are mobile/tablet friendly.
 
-### greatReads (Rails, Ruby, jQuery, React.js, Redux.js, AWS, HTML5/CSS3) &nbsp; &nbsp; [live](https://greatreads2020.herokuapp.com/#/) | [github](https://github.com/FeiYGH/GreatReads---aA_Fullstack)
+### greatReads (Rails, Ruby, jQuery, ReactJS, ReduxJS, AWS, HTML5/CSS3) &nbsp; &nbsp; [live](https://greatreads2020.herokuapp.com/#/) | [github](https://github.com/FeiYGH/GreatReads---aA_Fullstack)
 _A clone of Goodreads. Users can read reviews (and any follow up review comments) on different books. Once signed in, users have
 access to full CRUD features of reviews, ratings, and comments._
 * Wrote backend to implement signup and login functionality, rendering errors, structuring React and Redux components to
@@ -116,8 +116,11 @@ _An interactive graph that depicts 11 categories of nonprofits across US states 
 ## Experience
 ### Full Stack Engineer
 _TalentPath, Washington, D.C_
+* Built an app in a group called Shamazin, a clone of the Amazon Item Show Page and followed an agile workflow with a week long sprint.
+   * Created the wireframe for the React App, set up the routes, and layout of the frontend page. Wrote the backend and frontend of Product Photos Component and did styling work on it and other components.
+* Worked with both Full Stack Engineers and Data Analysts to document and charts trends of diversity in government leaderhsip in the United States over the past 50 years.
+   *  Wrote scripts for pulling in data from APIs, did backend and frontend development of websites for Govt Diversity Project*.
 * Developed an app called FavRecipEz that allows users to view, search recipes, and sign in to create their own collection.
-* Wrote scripts for pulling in data from APIs, did backend and frontend development of websites for Govt Diversity Project*.
 * Further trained in Spring Boot Java Backend, Spring Security, Angular, PG Admin, AWS, Data Analysis with Python, Python
 
 ### Coding Instructor
