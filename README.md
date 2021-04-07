@@ -121,7 +121,7 @@ _TalentPath, Washington, D.C_
 * Worked with both Full Stack Engineers and Data Analysts to document and charts trends of diversity in government leaderhsip in the United States over the past 50 years.
    *  Wrote scripts for pulling in data from APIs, did backend and frontend development of websites for Govt Diversity Project*.
 * Developed an app called FavRecipEz that allows users to view, search recipes, and sign in to create their own collection.
-* Further trained in Spring Boot Java Backend, Spring Security, Angular, PG Admin, AWS, Data Analysis with Python, Python
+* Further trained in Spring Boot Java Backend, Spring Security, Angular, PG Admin, AWS, Data Analysis with Python, Python.
 
 ### Coding Instructor
 _WhizKidz Computer Center, Cupertino, CA_
@@ -140,5 +140,5 @@ specifications. Wrote test cases. Maintained and updated regression test plan. F
 * **BA Education** - _University of Virginia,_ CharlottesVille, VA | 2003-2007
 * **Full Stack Development** - _App Academy,_ San Francisco, CA | Dec 2019 - April 2020
 * **Systems Programming** - _DeAnza College,_ Cupertino, CA | Jan 2018 - Dec 2019
-    - Completed 85.5/90 credits toward an Associate’s in Systems Programming. GPA: 3
+    - Completed 85.5/90 credits toward an Associate’s in Systems Programming. GPA: 3.71
 * **Certificate in C++** _Deanza College,_ Cupertino, CA | Jan 2018 - Jan 2019
