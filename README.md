@@ -59,7 +59,7 @@
 * REST
 
 ## Projects
-### Shamazin (Spring Boot, JPA/Hibernate, Postgres, ReactJS, HTML/CSS, React Styled) &nbsp; &nbsp; [live site coming] | [github frontend]("https://github.com/TheReallyGreatTeamFSEMarch2021/ReactShamazin")
+### Shamazin (Spring Boot, JPA/Hibernate, Postgres, ReactJS, HTML/CSS, React Styled) &nbsp; &nbsp; [live site coming] | [github frontend](https://github.com/TheReallyGreatTeamFSEMarch2021/ReactShamazin)
 
 ### FavRecipEz (Spring Boot, Angular, HTML/CSS, Postgres) &nbsp; &nbsp; [live site coming] | [github]()
 
