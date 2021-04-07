@@ -59,9 +59,9 @@
 * REST
 
 ## Projects
-### Shamazin (Spring Boot, JPA/Hibernate, Postgres, ReactJS, HTML/CSS, React Styled) &nbsp; &nbsp; [live] | [github]
+### Shamazin (Spring Boot, JPA/Hibernate, Postgres, ReactJS, HTML/CSS, React Styled) &nbsp; &nbsp; [live site coming] | [github frontend]("https://github.com/TheReallyGreatTeamFSEMarch2021/ReactShamazin")
 
-### FavRecipEz (Spring Boot, Angular, HTML/CSS, Postgres) &nbsp; &nbsp; [live] | [github]
+### FavRecipEz (Spring Boot, Angular, HTML/CSS, Postgres) &nbsp; &nbsp; [live site coming] | [github]()
 
 ### Government Diversity Over 50 Years (Spring Boot, JQuery, Postgres, Heroku, JSON.simple, HTML5/CSS3) &nbsp; &nbsp; [live] | [github]
 _Interactive website that charts the trends in U.S. government diversity over 50 years_
