@@ -143,5 +143,5 @@ specifications. Wrote test cases. Maintained and updated regression test plan. F
 * **Systems Programming** - _DeAnza College,_ Cupertino, CA | Jan 2018 - Dec 2019
     - Completed 85.5/90 credits toward an Associate’s in Systems Programming. GPA: 3.71
 * **Certificate in C++** _Deanza College,_ Cupertino, CA | Jan 2018 - Jan 2019
-* **BA Education** - _University of Virginia,_ CharlottesVille, VA | 2003-2007
+* **BA Education** - _University of Virginia,_ Charlottesville, VA | 2003-2007
 ##### [Summary](#summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#education)  
