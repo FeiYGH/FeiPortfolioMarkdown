@@ -11,7 +11,7 @@
 
 
 ## Summary
-   I'm a full stack software engineer that loves building and creating! I enjoy SpringBoot, AngularJS, ReactJS, ReduxJS, Ruby, and Rails. I am also good (skillful) at JavaScript, Java, and C++. My most recent project is Shamazin, which is a clone of the Amazon Item Show Page, a full stack group project where we used SpringBoot on the backend and ReactJS on the frontend with PostgreSQL as the database. Our team developed it using the agile methodology. Another project I am very happy about was, "Nonprofits Across Different States," a D3 JavaScript interactive graph. StudyPal SF demonstrates another stack that I have worked with; it uses MongoDB, ExpressJS, ReactJS/ReduxJS, and NodeJS to filter through preferences and "roll" a random cafe for those seeking a cafe to study. Please look at my projects section for further information.
+   I'm a full stack software engineer that loves building and creating! I enjoy SpringBoot, AngularJS, ReactJS, ReduxJS, Ruby, and Rails. I am also good (skillful) at JavaScript, Java, and C++. My most recent project is Shamazin, which is a clone of the Amazon Item Show Page, a full stack group project where we used SpringBoot on the backend and ReactJS on the frontend with PostgreSQL as the database. Our team developed it using the agile methodology. Another project I am very happy about was, "Nonprofits Across Different States," a D3 JavaScript interactive graph. StudyPal SF demonstrates another stack that I have worked with; it uses MongoDB, ExpressJS, ReactJS/ReduxJS, and NodeJS to filter through preferences and "roll" a random cafe for those seeking a cafe to study at. Please look at my projects section for more detail and information.
 
    I enjoy challenging myself to think methodically and creatively and have found that creativity is not only a part of html/css but also a part of design and structure.
 
@@ -133,16 +133,15 @@ people per class and were two months each. Instructed 19 Chinese exchange studen
 
 ### Software Tester
 _Shasta QA, Redding, CA_
-* Tested software for quality assurance on Windows. I filed, closed, and reopened issues through JIRA (bug tracking system) for
-* five tech companies; four of them were international in scope. Helped train two other team members.
+* Tested software for quality assurance on Windows. I filed, closed, and reopened issues through JIRA (bug tracking system) for five tech companies; four of them were international in scope. Helped train two other team members.
 * Worked with product management teams, software developers to fix software defects and bugs, to review new features and
 specifications. Wrote test cases. Maintained and updated regression test plan. Followed Agile method weekly sprint cycles.
 ##### [Summary](#summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#education)   
 
 ## Education  
-* **BA Education** - _University of Virginia,_ CharlottesVille, VA | 2003-2007
 * **Full Stack Development** - _App Academy,_ San Francisco, CA | Dec 2019 - April 2020
 * **Systems Programming** - _DeAnza College,_ Cupertino, CA | Jan 2018 - Dec 2019
     - Completed 85.5/90 credits toward an Associate’s in Systems Programming. GPA: 3.71
 * **Certificate in C++** _Deanza College,_ Cupertino, CA | Jan 2018 - Jan 2019
+* **BA Education** - _University of Virginia,_ CharlottesVille, VA | 2003-2007
 ##### [Summary](#summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#education)  
