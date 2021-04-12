@@ -59,7 +59,7 @@
 * Heroku
 * Data Analysis with Python Projects Certification 
 * AWS S3
-##### [Summary](#Summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education) 
+##### [Summary](#summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#education)  
 
 
 ## Projects 
@@ -114,7 +114,7 @@ _An interactive graph that depicts 11 categories of nonprofits across US states 
 * Built “play”, “pause”, and “reset” buttons for user friendliness; user can start, pause, or restart the presentation.
 * Set up a state slider allowing user to skip to any state they want and a filter allowing user to selectively show categories.
 * Data about all charities are gathered from API calls to Charity Navigator.
-##### [Summary](#Summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education) 
+##### [Summary](#summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#education)   
 
 ## Experience 
 ### Full Stack Engineer
@@ -138,7 +138,7 @@ _Shasta QA, Redding, CA_
 * five tech companies; four of them were international in scope. Helped train two other team members.
 * Worked with product management teams, software developers to fix software defects and bugs, to review new features and
 specifications. Wrote test cases. Maintained and updated regression test plan. Followed Agile method weekly sprint cycles.
-##### [Summary](#Summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education) 
+##### [Summary](#summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#education)   
 
 ## Education  
 * **BA Education** - _University of Virginia,_ CharlottesVille, VA | 2003-2007
@@ -146,4 +146,4 @@ specifications. Wrote test cases. Maintained and updated regression test plan. F
 * **Systems Programming** - _DeAnza College,_ Cupertino, CA | Jan 2018 - Dec 2019
     - Completed 85.5/90 credits toward an Associate’s in Systems Programming. GPA: 3.71
 * **Certificate in C++** _Deanza College,_ Cupertino, CA | Jan 2018 - Jan 2019
-##### [Summary](#Summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#Skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#Projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#Experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#Education) 
+##### [Summary](#summary) &nbsp; &nbsp; &nbsp; &nbsp; [Skills](#skills) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#projects)&nbsp; &nbsp; &nbsp; &nbsp; [Experience](#experience)&nbsp; &nbsp; &nbsp; &nbsp; [Education](#education)  
