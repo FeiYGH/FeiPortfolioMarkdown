@@ -1,8 +1,7 @@
 # Fei Yang's Resume
 
 ## Contact Information
-* **Email** - feidyang@gmail.com
-* **Phone** - (669)282-8139
+* **Email** - feidyang@gmail.com, fyang@talentpath.com
 * **[Portfolio](https://feidyang.com/)**
 * **[Github](https://github.com/FeiYGH)**
 * **[LinkedIn](https://www.linkedin.com/in/d-c-fei-yang-4958261a4/)**
