@@ -62,7 +62,7 @@
 
 
 ## Projects 
-### Shamazin (Spring Boot, JPA/Hibernate, Postgres, ReactJS, HTML/CSS, React Styled) &nbsp; &nbsp; [live](https://shamazin.jaitken-projects.com/) | [github frontend](https://github.com/TheReallyGreatTeamFSEMarch2021/ReactShamazin) | [github backend](https://github.com/TheReallyGreatTeamFSEMarch2021/Shamazin2)
+### Shamazin (Spring Boot, JPA/Hibernate, Postgres, ReactJS, HTML/CSS, React Styled) &nbsp; &nbsp; [live](https://shamazin.jaitken-projects.com/) | [github FE](https://github.com/TheReallyGreatTeamFSEMarch2021/ReactShamazin) | [github BE](https://github.com/TheReallyGreatTeamFSEMarch2021/Shamazin2)
 _Clone of Amazon Item Show Page._
 * Worked remotely in a team of seven people to create this website, following the agile methodology and using Github to track, resolve conflicts, and merge.
 * Set up the backend for the Product Photos Component, writing the REST APIs (model, control, service, and repository classes, and service layers tests). Used Hibernate/JPA. 
@@ -70,7 +70,7 @@ _Clone of Amazon Item Show Page._
 * Built out backend login and register functionality using Spring Security and JWT Token for future login and register functionality.
 * Did styling of Product Photos components and certain other components of the website, including NavBar and Login page.   
 
-### FavRecipEz (Spring Boot, Angular, HTML/CSS, Postgres) &nbsp; &nbsp; live site coming | [github frontend](https://github.com/FeiYGH/favRecipEzAngular2021) | [github backend](https://github.com/FeiYGH/favRecipes)
+### FavRecipEz (Spring Boot, Angular, HTML/CSS, Postgres) &nbsp; &nbsp; live site coming | [github FE](https://github.com/FeiYGH/favRecipEzAngular2021) | [github BE](https://github.com/FeiYGH/favRecipes)
 _App designed for users to browse and store recipes for themselves and others. Once signed in, users have full CRUD features for their recipes._
 * Designed the framework, the models, the overall layout and functionality to implement structure for project.
 * Used Java Spring Boot to build out REST APIs for grabbing, creating, editing, deleting data. Used JUnit to write tests for the service layer. 
