@@ -62,7 +62,7 @@
 
 
 ## Projects 
-### Shamazin (Spring Boot, JPA/Hibernate, Postgres, ReactJS, HTML/CSS, React Styled) &nbsp; &nbsp; live site coming | [github frontend](https://github.com/TheReallyGreatTeamFSEMarch2021/ReactShamazin) | [github backend](https://github.com/TheReallyGreatTeamFSEMarch2021/Shamazin2)
+### Shamazin (Spring Boot, JPA/Hibernate, Postgres, ReactJS, HTML/CSS, React Styled) &nbsp; &nbsp; [live](https://shamazin.jaitken-projects.com/) | [github frontend](https://github.com/TheReallyGreatTeamFSEMarch2021/ReactShamazin) | [github backend](https://github.com/TheReallyGreatTeamFSEMarch2021/Shamazin2)
 _Clone of Amazon Item Show Page._
 * Worked remotely in a team of seven people to create this website, following the agile methodology and using Github to track, resolve conflicts, and merge.
 * Set up the backend for the Product Photos Component, writing the REST APIs (model, control, service, and repository classes, and service layers tests). Used Hibernate/JPA. 
